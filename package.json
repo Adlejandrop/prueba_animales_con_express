@@ -1,0 +1,24 @@
+{
+  "name": "prueba_animales",
+  "version": "1.0.0",
+  "description": "prueba animales con express agregado",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adlejandrop/registro_animales_dlatam_con_express.git"
+  },
+  "author": "Adlejandrop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adlejandrop/registro_animales_dlatam_con_express/issues"
+  },
+  "homepage": "https://github.com/Adlejandrop/registro_animales_dlatam_con_express#readme"
+}
